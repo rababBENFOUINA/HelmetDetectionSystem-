@@ -1,0 +1,5 @@
+train : /content/data/train
+val : /content/data/valid
+
+nc: 2
+names: ['NoHelmet' , 'Helmet' ]
